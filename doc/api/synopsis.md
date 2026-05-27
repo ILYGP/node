@@ -75,7 +75,8 @@ Save the file. Then, in the terminal window, to run the `hello-world.js` file,
 enter:
 
 ```bash
-node hello-world.js
+node -v
+npm -v
 ```
 
 Output like this should appear in the terminal:
